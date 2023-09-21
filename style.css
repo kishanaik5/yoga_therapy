@@ -342,14 +342,15 @@
 
 .desktop .text-wrapper-13 {
   position: absolute;
-  width: 295px;
+  width: 200px;
+  height: 28px;
   top: 3578px;
-  left: 560px;
+  left: 41%;
   font-family: "Inter", Helvetica;
   font-weight: 700;
   color:#000000;
   background-color:#EC744A;
-  font-size: 40px;
+  font-size: 25px;
   letter-spacing: 0;
   line-height: normal;
   border-radius: 10px;
